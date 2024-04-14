@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++2b",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/josh/source/c++/sb",
+    "file": "/home/josh/source/c++/sb/src/main.cpp",
+    "output": "/home/josh/source/c++/sb/obj/main.o"
+  }
+]
